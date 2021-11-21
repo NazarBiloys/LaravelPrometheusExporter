@@ -1,5 +1,5 @@
 {
-    "name": "triadev/laravel-prometheus-exporter",
+    "name": "nazarbiloys/laravel-prometheus-exporter",
     "description": "A laravel and lumen service provider to export metrics for prometheus.",
     "keywords": [
         "Laravel",
